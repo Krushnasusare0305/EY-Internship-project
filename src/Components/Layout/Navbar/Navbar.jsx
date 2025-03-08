@@ -21,7 +21,7 @@ export default function Navbar({ getsidbarcout ,profiledata }) {
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div className="container d-flex justify-content-between align-items-center">
-          <Link className="navbar-brand">OrbitMatrix</Link>
+          <Link className="navbar-brand">Project Manager</Link>
 
           {/* Button to toggle count, visible only on mobile view */}
           <button 
